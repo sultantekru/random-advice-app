@@ -4,7 +4,7 @@
 
 <h1 align="center">Random Advice App</h1>
 
-<p>Random Advice App, React ile dinamik <p>Random Advice App, React ile dinamik içerik oluşturma projesi olarak geliştirildi. Uygulama, bir butona tıklanarak kullanıcıya rastgele tavsiyeler sunmaktadır. Tavsiyeler, Advice Slip API'sinden alınan verilerle sağlanır. Uygulama, Axios kullanarak API'ye HTTP isteği gönderir ve gelen veriyi dinamik olarak ekrana yansıtır. Her butona tıklanışta, kullanıcıya yeni bir tavsiye sunulur.</p>
+<p>Random Advice App, React ile dinamik içerik oluşturma projesi olarak geliştirildi. Uygulama, bir butona tıklanarak kullanıcıya rastgele tavsiyeler sunmaktadır. Tavsiyeler, Advice Slip API'sinden alınan verilerle sağlanır. Uygulama, Axios kullanarak API'ye HTTP isteği gönderir ve gelen veriyi dinamik olarak ekrana yansıtır. Her butona tıklanışta, kullanıcıya yeni bir tavsiye sunulur.</p>
 
 
 ### 🚀 Kullanılan Teknolojiler
