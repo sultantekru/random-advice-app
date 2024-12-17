@@ -1,0 +1,47 @@
+
+.random-advice, .welcome-message {
+    font-size: 1.5rem;
+    color: #fff; 
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.give-advice-button {
+    position: relative;
+    background-color: #d1e7dd; 
+    color: #3a6f3f; 
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 30px; 
+    border: 2px solid #a8d8a1; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.give-advice-button:hover {
+    background-color: #a8d8a1; 
+    color: #ffffff; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.give-advice-button:active {
+    background-color: #8cc79e; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    transform: scale(0.98); 
+}
+
+.shadow {
+    background: #d1e7dd; 
+    border-radius: 30px;
+    box-shadow: 0 0 15px 5px rgba(208, 231, 221, 0.4);
+    height: 80px;
+    width: 240px;
+    opacity: 0.2;
+    margin: 30px auto;
+}
